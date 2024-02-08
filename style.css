@@ -67,11 +67,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
 }
 .pr {
   border-radius: 10px;
-  
+
   height: 10%;
   width: 30%;
 }
@@ -181,6 +181,14 @@ td {
   text-align: left;
   border-radius: 15px 0 0 15px;
   margin-bottom: 10px;
+}
+
+.previe {
+  width: 80%;
+  height: 80%;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 2%;
 }
 
 th {
